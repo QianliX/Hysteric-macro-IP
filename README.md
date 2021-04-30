@@ -1,4 +1,4 @@
-# Hysteric-macro-IP-
+# Hysteric-macro-IP
 
 ### Requirements
 * Matlab
